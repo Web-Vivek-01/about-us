@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Its-vivek-sharma](Its-vivek-sharma)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap,**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
